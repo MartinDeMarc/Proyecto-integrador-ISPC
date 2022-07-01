@@ -5,7 +5,7 @@ tecnología de los ordenadores o también los que son transformados o agravados 
 misma". Es decir, por las personas que utilizan los avances de las tecnologías de la
 informació.
 
-*** La EI (Ética Informática) se plantea varios objetivos: ***
+***La EI (Ética Informática) se plantea varios objetivos:***
 
 * Descubrir y articular dilemas éticos claves en informática.
 * Determinar en qué medida son agravados, transformados o creados por la tecnología
@@ -21,7 +21,7 @@ informació.
   Gracias a esto las empresas han implementado guias y codigos de etica para mantener los más altos estándares de integridad, seguridad, comportamiento y conducta responsable.
   Como por ejemplo:
 
-*** Los diez mandamientos de la ética informática: ***
+***Los diez mandamientos de la ética informática:***
 
 1. No usarás una computadora para dañar a otros.
 2. No interferirás con el trabajo ajeno.
