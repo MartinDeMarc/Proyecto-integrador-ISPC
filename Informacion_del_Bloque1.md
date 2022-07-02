@@ -162,12 +162,13 @@ Combinando mis propias opiniones con los consejos que dan en el reportaje os dej
 - Reducir el ruido: uno de los consejos principales, es reducir las interrupciones y las fuentes de contenido que no aportan valor. (Desactivando notificaciones, desinstalar apps que no aporten valor, No seguir las recomendaciones de contenido.)
 - Privacidad: otro de los grandes caballos de batalla está en la privacidad de nuestro uso, en el equilibrio entre privacidad y experiencia de usuario.
 - Polarización: Comprueba los hechos antes de compartir una noticia, sigue a fuentes de info con las que no estés de acuerdo para contrastar, si parece clickbait o fake news, seguramente lo sea. Recuerda que si haces click estás dando razones para que sigan haciéndolo.
-  **_Consejos de seguridad en redes sociales para menores_**
-  Una de las primeras preguntas a hacerse para entender el contexto, es ¿por qué muchos de los grandes expertos no dejan que sus hijos usen las redes sociales, móviles/pantallas, etc. hasta cierta edad?
+
+**_Consejos de seguridad en redes sociales para menores_**
+Una de las primeras preguntas a hacerse para entender el contexto, es ¿por qué muchos de los grandes expertos no dejan que sus hijos usen las redes sociales, móviles/pantallas, etc. hasta cierta edad?
 
 Si fuesen seguros y beneficiosos para los menores harían lo contrario, ¿no? Tratarían de que las usasen más. Por supuesto, para estos temas hay posturas para todos los gustos sea el nivel de experto que tengan los padres.
 
-Pero desde mi experiencia personal, tres reglas que me ayudan son:
+**_Pero desde mi experiencia personal, tres reglas que me ayudan son:_**
 
 - Limites: tanto en horarios, como en situaciones. Nada de pantallas después de la cena, ni durante las comidas, etc. y por supuesto, nada de pantallas en sus habitaciones x tiempo antes de dormir.
 - Edad: nada de redes sociales, ni aplicaciones de mensajería hasta los 14 años. Sería preferible hasta los 16 años, pero lo veo imposible.
