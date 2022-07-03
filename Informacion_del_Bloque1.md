@@ -173,3 +173,33 @@ Si fuesen seguros y beneficiosos para los menores harían lo contrario, ¿no? Tr
 - Limites: tanto en horarios, como en situaciones. Nada de pantallas después de la cena, ni durante las comidas, etc. y por supuesto, nada de pantallas en sus habitaciones x tiempo antes de dormir.
 - Edad: nada de redes sociales, ni aplicaciones de mensajería hasta los 14 años. Sería preferible hasta los 16 años, pero lo veo imposible.
 - Negociación: llegar a un acuerdo sobre el tiempo de pantalla diario.
+
+---
+
+# Scrum: roles, artefactos y ceremonias
+
+**El Scrum es una de las metodologías ágiles para la gestión de proyectos. Cuenta con artefactos y ceremonias, y sus integrantes cumplen ciertos roles.**
+
+### ¿Cuáles son los roles en la metodología Scrum?
+
+Un Scrum Team se compone de los siguientes roles específicos con el propósito de crear un Increment valioso y útil en cada Sprint:
+- Scrum Master: es responsable de lograr la efectividad en el Scrum Team. Mantiene y facilita las reuniones, promueve la autogestión y la responsabilidad. Es quien asiste en caso de problemas o impedimentos (se centra en cómo trabajar mejor de acuerdo al marco de trabajo Scrum)
+- Product Owner: gestiona el Product Backlog (decide qué hacer y por qué)
+- Development Team: realizan el trabajo según lo que se haya planificado a partir de metas diarias hacia el Objetivo del Sprint.
+
+### ¿Cuáles son los artefactos de la metodología Scrum?
+
+Se denomina artefactos a los elementos físicos producidos como resultado de la aplicación de la metodología Scrum. Los tres principales son:
+- Product Backlog (lista de requerimientos del producto. Incluye las características del producto, sus mejoras y los arreglos necesarios).
+- Sprint Backlog (se compone de los elementos del Product Backlog seleccionados para ser ejecutados en el Sprint en curso, así como de un plan de acción para entregar el Increment al final del Sprint).
+- Product Increment (paso concreto hacia el Objetivo del Producto, representa la suma de todos los elementos del Sprint Backlog que cumplan con la "Definición de Terminado", más los Incrementos de Sprints anteriores). 
+
+### ¿Cuáles son las ceremonias de la metodología Scrum?
+
+Las cuatro ceremonias principales son las reuniones que tienen lugar en los sprints, y que pretenden asegurar el rápido y constante progreso del equipo Scrum, a la par que mejora continuamente su forma de trabajar.
+Éstas son:
+- Sprint Planning Meeting (al inicio de un Sprint, se planifica qué es lo que se hará en el mismo y cómo se hará. Se establece un objetivo).
+- Daily Scrum Meeting (reunión diaria, con una duración de hasta 20 minutos, en la que se evalúa qué se hizo, qué se hará y qué problemas se encontraron. Se inspecciona el progreso hacia el Objetivo).
+- Sprint Review Meeting (al final del Sprint, se muestra lo que se ha completado y lo que no. Debe estar presente el Product Owner).
+- Sprint Retrospective Meeting (se realiza también al finalizar el Sprint, y se documenta qué funcionó bien durante el mismo, y qué se puede mejorar para el próximo).
+
