@@ -2,7 +2,7 @@ Id_Perro=13
 nombre="Puppy"
 Fecha_de_nacimiento= "12/12/2012"
 sexo="Macho" 
-dni_dueño =123
+dni_dueno =123
 
 Perro=[13, "Puppy", "12/12/2012", "Macho", 123]
 for x in range(len(Perro)):
