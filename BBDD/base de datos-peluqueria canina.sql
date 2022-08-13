@@ -49,3 +49,7 @@ INSERT INTO `peluqueria-canina`.`historial` (`ID_Historial`, `Fecha`, `Descripci
 INSERT INTO `peluqueria-canina`.`historial` (`ID_Historial`, `Fecha`, `Descripción`, `Monto`, `Perro_ID_Perro`) VALUES ('3', '2021-12-28', 'Traslado, baño y corte', '1500', '15');
 
 INSERT INTO `peluqueria-canina`.`historial` (`ID_Historial`, `Fecha`, `Descripción`, `Monto`, `Perro_ID_Perro`) VALUES ('4', '2022-03-10', 'Traslado y baño', '1500', '10');
+
+SELECT * FROM `dueño`;
+SELECT * FROM `perro`;
+SELECT * FROM `historial`;
