@@ -10,5 +10,5 @@ promedio = suma / i
 print (promedio)
 
 if promedio >  4500:
-    print ("SE A EXECIDO DEL GASTO PROMEDIO PARA SU MASCOTA")
+    print ("SE HA EXCEDIDO DEL GASTO PROMEDIO PARA SU MASCOTA")
     
